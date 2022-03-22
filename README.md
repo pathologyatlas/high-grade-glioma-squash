@@ -1,58 +1,46 @@
-# template
-
-**template for pathology atlas repositories**
+# High Grade Glioma Squash
 
 
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-
-
-> do not forget to activate github pages for the new repository
-
-
-```zsh
-vips dzsave HE.svs HE
-```
-
-```{r language template, echo=FALSE, include=TRUE}
+```{r language high-grade-glioma-squash, echo=FALSE, include=TRUE}
 source("./R/language.R")
 ```
 
 
 ```{asis, echo = (language == "TR")}
-# TemplateTR
+# Yüksek Dereceli Gliom Yayma Preparat
 ```
 
 
 ```{asis, echo = (language == "EN")}
-# TemplateEN
+# High Grade Glioma Squash Slide
 ```
 
 
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**Yüksek Dereceli Gliom Yayma Preparat**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/high-grade-glioma-squash/HE.html](https://pathologyatlas.github.io/high-grade-glioma-squash/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/high-grade-glioma-squash/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**High Grade Glioma Squash Slide**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/high-grade-glioma-squash/HE.html](https://pathologyatlas.github.io/high-grade-glioma-squash/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/high-grade-glioma-squash/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
