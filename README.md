@@ -22,11 +22,11 @@ source("./R/language.R")
 **Yüksek Dereceli Gliom Yayma Preparat**
 
 
-[https://pathologyatlas.github.io/high-grade-glioma-squash/HE.html](https://pathologyatlas.github.io/high-grade-glioma-squash/HE.html)
+[https://images.patolojiatlasi.com/high-grade-glioma-squash/HE.html](https://images.patolojiatlasi.com/high-grade-glioma-squash/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/high-grade-glioma-squash/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/high-grade-glioma-squash/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -36,11 +36,11 @@ Mikroskopik görüntüleri inceleyin:
 **High Grade Glioma Squash Slide**
 
 
-[https://pathologyatlas.github.io/high-grade-glioma-squash/HE.html](https://pathologyatlas.github.io/high-grade-glioma-squash/HE.html)
+[https://images.patolojiatlasi.com/high-grade-glioma-squash/HE.html](https://images.patolojiatlasi.com/high-grade-glioma-squash/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/high-grade-glioma-squash/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/high-grade-glioma-squash/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
